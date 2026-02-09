@@ -41,7 +41,4 @@ I build efficient firmware for microcontrollers and scalable, high-performance w
 | A streamlined event management platform for organizing guest lists and RSVPs seamlessly. | A comprehensive kitchen management system for modern restaurants, integrating order flow and inventory. |
 | **Stack:** `Next.js` `MongoDB` `TypeScript` `Tailwind`  | **Stack:** `React` `Node.js` `Express` `MongoDB` |
 ---
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
----
+
